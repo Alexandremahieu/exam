@@ -1,3 +1,12 @@
+    index.html      =   Liste des tâches à faire
+    index-02.html   =   Liste des tâches accomplies
+    index-03.html   =   Créer une tâche
+    index-04.html   =   Modifier une tâche
+    index-05.html   =   Détails de la tâche
+    index-06.html   =   Les niveaux d'importance
+    index-07.html   =   Créer un niveau d'importance
+    index-08.html   =   Modifier un niveau d'importance
+
 DAISHI-SENSEI-EXAM
 
 Création d'une application de gestion de tâches
